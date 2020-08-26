@@ -1,0 +1,16 @@
+{
+  "name": "chrome_extension_try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "back_ground_ex.js",
+  "dependencies": {
+    "html2canvas": "^1.0.0-rc.5",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
